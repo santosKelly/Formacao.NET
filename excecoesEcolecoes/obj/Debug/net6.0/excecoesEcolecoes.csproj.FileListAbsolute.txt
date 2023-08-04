@@ -1,0 +1,15 @@
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\bin\Debug\net6.0\excecoesEcolecoes.exe
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\bin\Debug\net6.0\excecoesEcolecoes.deps.json
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\bin\Debug\net6.0\excecoesEcolecoes.runtimeconfig.json
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\bin\Debug\net6.0\excecoesEcolecoes.dll
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\bin\Debug\net6.0\excecoesEcolecoes.pdb
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\excecoesEcolecoes.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\excecoesEcolecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\excecoesEcolecoes.AssemblyInfoInputs.cache
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\excecoesEcolecoes.AssemblyInfo.cs
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\excecoesEcolecoes.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\excecoesEcolecoes.dll
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\refint\excecoesEcolecoes.dll
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\excecoesEcolecoes.pdb
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\excecoesEcolecoes.genruntimeconfig.cache
+C:\Users\kelly\source\repos\excecoesEcolecoes\excecoesEcolecoes\obj\Debug\net6.0\ref\excecoesEcolecoes.dll
